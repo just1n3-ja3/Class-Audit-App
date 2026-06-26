@@ -14,3 +14,4 @@ python-dotenv==1.2.2
 requests==2.34.2
 requests-oauthlib==2.0.0
 urllib3==2.7.0
+pyfiglet==1.0.4
